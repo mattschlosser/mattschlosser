@@ -7,7 +7,7 @@ Hi. I am Matt. Here's you'll find my ever growing collection of unfinished side 
 Recently, I have been working on a [bus visualization tool](http://bus.mattschlosser.me) to easily visualize
 bus data. Here's a snapshot. 
 
-![A map](../../../bus/blob/master/docs/img/datavis1.png "TEST")
+![A map](https://github.com/mattschlosser/bus/blob/master/docs/img/datavis1.png "TEST")
 
 My goal was to have an easy way to visualize the data between two different times. I started collecting data back in Feburary 2020, 
 so I have been having fun comparing pre-pandemic levels of service with current ones.
@@ -16,6 +16,6 @@ so I have been having fun comparing pre-pandemic levels of service with current 
 ## Testing Code Navigation 
 
 ```js
-const Oslo = require('oslo-events');
-const oslo = new Oslo();
+add_sumething(1,2);
+// 3
 ```
