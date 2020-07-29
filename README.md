@@ -1,6 +1,6 @@
-# About Me
+# About Matt
 
-Hi. I am Matt. This is a test. 
+Hi. I am Matt. Here's you'll find my ever growing collection of unfinished side projects. :smile:
 
 ## Recent Projects
 
