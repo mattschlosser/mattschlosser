@@ -1,0 +1,22 @@
+{
+  "name": "mattschlosser",
+  "version": "1.0.0",
+  "description": "Hi. I am Matt. This is a test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattschlosser/mattschlosser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattschlosser/mattschlosser/issues"
+  },
+  "homepage": "https://github.com/mattschlosser/mattschlosser#readme",
+  "dependencies": {
+    "oslo-events": "^1.0.8"
+  }
+}
