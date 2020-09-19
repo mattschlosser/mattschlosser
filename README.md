@@ -4,7 +4,18 @@ Hi. I am Matt. Here's you'll find my ever growing collection of unfinished side 
 
 ## Recent Projects
 
-Recently, I have been working on a [bus visualization tool](http://bus.mattschlosser.me) to easily visualize
+### Electric Buses and Bus Data Visualization
+
+#### Electric Buses
+
+Recently, my city added a few electric buses to their fleet. I created a simple app/tool to easily locate
+the bus, show which route it's on, give an approximate distance, and show the locations of the buses on a map.
+
+Check it out at [bus.mattschlosser.me/electric](https://bus.mattschlosser.me/electric)
+
+#### Bus Data Visualization 
+
+Recently, I have been working on a [bus visualization tool](https://bus.mattschlosser.me) to easily visualize
 bus data. Here's a snapshot. 
 
 ![A map](https://github.com/mattschlosser/bus/blob/master/docs/img/datavis1.png "TEST")
