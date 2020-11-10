@@ -4,6 +4,15 @@ Hi. I am Matt. Here's you'll find my ever growing collection of unfinished side 
 
 ## Recent Projects
 
+### Analyzing COVID-19 Data. 
+
+Everyone's favourite project. 
+
+I simply wanted to collect the data for each municipality over time and have a handy way of viewing the data
+
+https://mattschlosser.github.io/alberta-covid/
+
+
 ### Electric Buses and Bus Data Visualization
 
 I have been fascianted with looking into the open data provided by the City of Edmonton recently. Here are a few of 
