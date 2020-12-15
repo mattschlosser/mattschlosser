@@ -11,7 +11,7 @@ Everyone's favourite project.
 I simply wanted to collect the data for each municipality over time and have a handy way of viewing the data
 
 * Visit <b>[covid.mattschlosser.me](https://covid.mattschlosser.me)</b> to see interactive charts
-* Visit [the repo](https:/github.com/mattschlosser/alberta-covid)
+* Visit [the repo](https://github.com/mattschlosser/alberta-covid)
 
 ### Electric Buses and Bus Data Visualization
 
