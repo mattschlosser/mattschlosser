@@ -22,7 +22,7 @@ the things that I've been working on.
 
 By keeping a personal database of the GTFS transit feeds, I have started to analyze certain aspects of the data. 
 Below is a table showing the time for each day when the bus arrives at the stop where I usually board to get to work.
-Taking the closet recorded point to the GPS coordinates of the bus stop. The scheduled arrival time is 8:37 a.m.
+Taking the closest recorded point to the GPS coordinates of the bus stop. The scheduled arrival time is 8:37 a.m.
 This shows that my bus usually arrives at the stop a few minutes early.
 
 manhattan_distance|bus|date|time
